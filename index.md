@@ -9,6 +9,7 @@ Mi objetivo se centra en trabajar en el área de harware y robotica.
 ## Formación
 ### 2022 ESO
 Sant Gabriel, Viladecans, Barcelona
+
 • Con un promedio de un 6 aprobé la ESO.
 ### 2022 - Actualidad, FPGM Sistemas Microinformáticos y Redes
  iFP Centro de Formación Profesional, Barcelona
