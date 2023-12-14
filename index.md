@@ -1,4 +1,4 @@
-<img src="https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png">
+<img src="file:///C:/Users/Alumno/Downloads/Captura%20de%20pantalla%202023-12-14%20093424.png">
 
 # **Miguel Àngel de Diego Petkov**
 ## Objetivo Profesional
