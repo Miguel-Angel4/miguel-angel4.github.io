@@ -30,7 +30,7 @@ adaptarme con facilidad a las exigencias que en su momento se den.
 
 
 ### Idiomas
-| Idioma | Nivel |
+|Idioma | Nivel|
 
 |Castellano | Nivel Nativo|
 
