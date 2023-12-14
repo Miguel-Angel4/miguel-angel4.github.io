@@ -32,8 +32,6 @@ adaptarme con facilidad a las exigencias que en su momento se den.
 ### Idiomas
 | Idioma | Nivel |
 
-|:---:|   :---:|
-
 |Castellano | Nivel Nativo|
 
 |Catalán| Nivel Nativo|
