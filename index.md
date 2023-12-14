@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/Alumno/Downloads/Captura%20de%20pantalla%202023-12-14%20093424.png">
+<img src="Captura de pantalla 2023-12-14 093424.png">
 
 # **Miguel Àngel de Diego Petkov**
 ## Objetivo Profesional
