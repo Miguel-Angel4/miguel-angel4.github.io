@@ -37,3 +37,6 @@ Idioma   -   Nivel
 |Catalán| Nivel Nativo|
 
 |Inglés| Nivel Medio|
+
+|Italiano| Nivel Bajo|
+
